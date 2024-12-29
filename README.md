@@ -4,6 +4,10 @@
 
 参考書籍: [LangChainとLangGraphによるRAG・AIエージェント［実践］入門](https://amzn.to/3DvNhSi) 
 
+API Reference
+- [LangChain](https://python.langchain.com/api_reference/index.html#)
+- [LangGraph](https://langchain-ai.github.io/langgraph/reference/)
+
 ## アプリ概要
 回答者のロールを複数用意し、質問内容に応じた役割のAIが回答するよう実装している
 
